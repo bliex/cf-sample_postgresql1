@@ -1,0 +1,6 @@
+.classpath
+.settings/
+target/*
+!target/cf-sample_postgresql1-1.0.0-SNAPSHOT.jar
+
+/target/
